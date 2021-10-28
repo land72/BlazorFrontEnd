@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {}
+    "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {}
   },
   "projects": {
-    "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {
+    "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
+        "projectUniqueName": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
         "projectName": "Blazorfrontendsample",
-        "projectPath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
+        "projectPath": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
         "packagesPath": "C:\\Users\\MSI GAMING\\.nuget\\packages\\",
-        "outputPath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\obj\\",
+        "outputPath": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",

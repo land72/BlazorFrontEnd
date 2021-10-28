@@ -9,8 +9,8 @@ using Microsoft.AspNetCore.Components;
 
 namespace Blazorfrontendsample.Pages
 {
-    public class DepartmentPage
- {
+    public partial class DepartmentPage
+    {
         public List<Department> Departments { get; set; } = new List<Department>();
 
         [Inject]

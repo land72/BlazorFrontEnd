@@ -13,70 +13,70 @@ namespace Blazorfrontendsample.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 1 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 2 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 3 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 4 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 5 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 6 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 7 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 8 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 9 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Blazorfrontendsample;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "d:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
+#line 10 "D:\pemgrogramanFrontend\Blazorfrontendsample\_Imports.razor"
 using Blazorfrontendsample.Shared;
 
 #line default
@@ -90,7 +90,7 @@ using Blazorfrontendsample.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "d:\pemgrogramanFrontend\Blazorfrontendsample\Shared\NavMenu.razor"
+#line 28 "D:\pemgrogramanFrontend\Blazorfrontendsample\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

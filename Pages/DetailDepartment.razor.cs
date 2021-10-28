@@ -6,8 +6,6 @@ using Microsoft.AspNetCore.Components;
 
 namespace Blazorfrontendsample
 {
-    public class DetailDepartment
-  {
     public partial class DetailDepartment
     {
         [Parameter]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwMisyJ6N949exP8ECJBpoW9PNQDuMIAniTaxKqKJlqyRxeI9X24IQjFk10haypnxgqwEHGzVxbGzjLgqloAiA==",
+  "dgSpecHash": "AfDIwpAK9tLd0aVb3pR4hx7hKWRdJ8DyaqYw/8rmye9QPu4xKJ9y3LCmgh48GMAk4+gFMITXtHm1pvrL8pBYdQ==",
   "success": true,
-  "projectFilePath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
+  "projectFilePath": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI GAMING\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
     "C:\\Users\\MSI GAMING\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.11\\microsoft.aspnetcore.components.5.0.11.nupkg.sha512",

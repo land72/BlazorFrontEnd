@@ -630,3 +630,7 @@ D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsamp
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.dll
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\ref\Blazorfrontendsample.dll
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.pdb
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DepartmentPage.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployee.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
