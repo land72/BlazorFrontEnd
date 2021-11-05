@@ -8,7 +8,7 @@ using Blazorfrontendsample.Models;
 
 namespace Blazorfrontendsample.Services
 {
-    public interface IDepartmentService
+    public interface IDepartmentsService
     {
          Task<IEnumerable<Department>> GetAll();
          Task<Department> GetById(int id);

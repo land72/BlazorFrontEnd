@@ -14,7 +14,7 @@ namespace Blazorfrontendsample.Pages
         public List<Department> Departments { get; set; } = new List<Department>();
 
         [Inject]
-        public IDepartmentService DepartmentService { get; set; }
+        public IDepartmentsService DepartmentService { get; set; }
 
         protected override async Task OnInitializedAsync()
         {

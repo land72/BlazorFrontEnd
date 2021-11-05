@@ -5,10 +5,11 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Blazorfrontendsample.Models;
 using System.Net.Http.Json;
+using Blazorfrontendsample.Services;
 
-namespace Blazorfrontendsample
+namespace Blazorfrontendsample.Services
 {
-    public class DepartmentService : IDepartmentService
+    public class DepartmentService : IDepartmentsService
     {
         private HttpClient _httpClient;
 
@@ -18,13 +19,13 @@ namespace Blazorfrontendsample
         }
         public async Task<IEnumerable<Department>> GetAll()
         {
-            var results = await _httpClient.GetFromJsonAsync<IEnumerable<Department>>("api/Departments");
+            var results = await _httpClient.GetFromJsonAsync<IEnumerable<Department>>("/api/Departments");
             return results;
         }
 
         public async Task<Department> GetById(int id)
         {
-            var result = await _httpClient.GetFromJsonAsync<Department>($"api/Departments/{id}");
+            var result = await _httpClient.GetFromJsonAsync<Department>($"/api/Departments/{id}");
             return result;
         }
     }

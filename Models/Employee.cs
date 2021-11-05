@@ -1,3 +1,5 @@
+using System.Dynamic;
+
 namespace Blazorfrontendsample.Models
 {
     public class Employee
@@ -17,5 +19,7 @@ namespace Blazorfrontendsample.Models
         public int departmentId { get; set; }
 
         public string departmentName { get; set; }
+
+        public string PhotoPath { get; set; }
     }
 }

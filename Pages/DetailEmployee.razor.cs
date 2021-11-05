@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Components;
 
 namespace Blazorfrontendsample.Pages
 {
-    public class DetailEmployee
+    public partial class DetailEmployee
     {
         [Parameter]
         public string id { get; set; }

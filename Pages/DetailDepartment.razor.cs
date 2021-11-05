@@ -4,22 +4,24 @@ using Blazorfrontendsample.Models;
 using Blazorfrontendsample.Services;
 using Microsoft.AspNetCore.Components;
 
-namespace Blazorfrontendsample
+namespace Blazorfrontendsample.Pages
 {
     public partial class DetailDepartment
     {
         [Parameter]
         public string id { get; set; }
-
+       public Department Department { get; set; }
         [Inject]
-        public IDepartmentService DepartmentService { get; set; }
+        public IDepartmentsService DepartmentService { get; set; }
 
-        public Department Department { get; set; } = new Department();
+     protected override async Task OnInitializedAsync()
+     {
+         id = id ?? "1"; 
+         Department = await DepartmentService.GetById(int.Parse(id)); 
+     }
 
-        protected override async Task OnInitializedAsync()
-        {
-            id = id ?? "1";
-            Department = await DepartmentService.GetById(int.Parse(id));
-        }
+
+
+
     }
 }

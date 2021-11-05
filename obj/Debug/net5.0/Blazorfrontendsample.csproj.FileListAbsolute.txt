@@ -626,7 +626,6 @@ D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\scopedcss\Shared\N
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\scopedcss\bundle\Blazorfrontendsample.styles.css
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\scopedcss\projectbundle\Blazorfrontendsample.bundle.scp.css
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.RazorTargetAssemblyInfo.cache
-D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.csproj.CopyComplete
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.dll
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\ref\Blazorfrontendsample.dll
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.pdb
@@ -634,3 +633,7 @@ D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\P
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployee.razor.g.cs
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\DetailEmployee.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
