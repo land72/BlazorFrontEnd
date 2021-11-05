@@ -147,35 +147,35 @@
         }
       },
       {
-        "HashCode": 689773904,
+        "HashCode": -735190901,
         "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.EmployeePage",
+        "Name": "Blazorfrontendsample.Pages.Counter",
         "AssemblyName": "Blazorfrontendsample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EmployeePage"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.EmployeePage"
+          "Common.TypeName": "Blazorfrontendsample.Pages.Counter"
         }
       },
       {
-        "HashCode": 1228780852,
+        "HashCode": 1089862182,
         "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.EmployeePage",
+        "Name": "Blazorfrontendsample.Pages.Counter",
         "AssemblyName": "Blazorfrontendsample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazorfrontendsample.Pages.EmployeePage"
+            "TagName": "Blazorfrontendsample.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.EmployeePage",
+          "Common.TypeName": "Blazorfrontendsample.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -242,39 +242,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazorfrontendsample.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -735190901,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.Counter",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1089862182,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.Counter",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
