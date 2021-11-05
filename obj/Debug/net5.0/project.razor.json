@@ -147,6 +147,39 @@
         }
       },
       {
+        "HashCode": 689773904,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.EmployeePage",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.EmployeePage"
+        }
+      },
+      {
+        "HashCode": 1228780852,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.EmployeePage",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.EmployeePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -735190901,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.Pages.Counter",
