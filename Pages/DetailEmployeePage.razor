@@ -1,0 +1,28 @@
+@page "/employeedetail/{id}"
+
+@if(Employee == null || Employee.departmentId==null){
+    <div class="spinner"></div>
+
+}
+else {
+
+ <div class="row justify-content-center m-3">
+     <div class="col-sm-8">
+         <hi>@Employee.firstName @Employee.lastName</hi>
+     </div>
+<div class="card-body text-center">
+    <img class="card-img-top" src="@Employee.PhotoPath"
+    @onmousemove="@Mouse_Move" />
+    <h4>Employee ID: @Employee.employeeId</h4>
+    <h4>Email: @Employee.email</h4>
+    <h4>Department: @Employee.departmentName</h4>
+</div>
+<button class="btn bnt-primary"@onclick="Button_Click">@ButtonText</button>
+
+ <div class="card-footer text-center @CssClass">
+       <a href="#" class="btn btn-primary m-1">Back</a>
+ <a href="#" class="btn btn-primary m-1">Edit</a>
+  <a href="#" class="btn btn-primary m-1">Delete</a>
+ </div>
+</div>
+}

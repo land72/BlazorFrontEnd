@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {}
+    "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {}
   },
   "projects": {
-    "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {
+    "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
+        "projectUniqueName": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
         "projectName": "Blazorfrontendsample",
-        "projectPath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
+        "projectPath": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\Blazorfrontendsample.csproj",
         "packagesPath": "C:\\Users\\MSI GAMING\\.nuget\\packages\\",
-        "outputPath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\obj\\",
+        "outputPath": "D:\\pemgrogramanFrontend\\Blazorfrontendsample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.11, 5.0.11]"
+              "version": "[5.0.12, 5.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
