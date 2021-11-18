@@ -22,4 +22,7 @@ namespace Blazorfrontendsample.Models
 
         public string PhotoPath { get; set; }
     }
+    public enum Gender{
+        Male,Female
+    }
 }

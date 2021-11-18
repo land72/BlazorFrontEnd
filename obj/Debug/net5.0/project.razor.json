@@ -147,6 +147,59 @@
         }
       },
       {
+        "HashCode": 112807621,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.DetailEmployeePage",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailEmployeePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.DetailEmployeePage"
+        }
+      },
+      {
+        "HashCode": -1025960359,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.DetailEmployeePage",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.DetailEmployeePage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.DetailEmployeePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 689773904,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.Pages.EmployeePage",
@@ -213,39 +266,6 @@
         }
       },
       {
-        "HashCode": -790152854,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.Index",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -977650685,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.Index",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 634288364,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.Pages.FetchData",
@@ -279,55 +299,174 @@
         }
       },
       {
-        "HashCode": 112807621,
+        "HashCode": 1269732452,
         "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.DetailEmployeePage",
+        "Name": "Blazorfrontendsample.Pages.EditEmployee",
         "AssemblyName": "Blazorfrontendsample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DetailEmployeePage"
+            "TagName": "EditEmployee"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "id",
+            "Name": "Id",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "id"
+              "Common.PropertyName": "Id"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.DetailEmployeePage"
+          "Common.TypeName": "Blazorfrontendsample.Pages.EditEmployee"
         }
       },
       {
-        "HashCode": -1025960359,
+        "HashCode": 1072277474,
         "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.DetailEmployeePage",
+        "Name": "Blazorfrontendsample.Pages.EditEmployee",
         "AssemblyName": "Blazorfrontendsample",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazorfrontendsample.Pages.DetailEmployeePage"
+            "TagName": "Blazorfrontendsample.Pages.EditEmployee"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "id",
+            "Name": "Id",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "id"
+              "Common.PropertyName": "Id"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.DetailEmployeePage",
+          "Common.TypeName": "Blazorfrontendsample.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -790152854,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.Index",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -977650685,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.Index",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1472347388,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.App",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.App"
+        }
+      },
+      {
+        "HashCode": -139711195,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.App",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1817461554,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -284366306,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -457,92 +596,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazorfrontendsample.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1817461554,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -284366306,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1472347388,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.App",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.App"
-        }
-      },
-      {
-        "HashCode": -139711195,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.App",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13291,6 +13344,11 @@
     {
       "FilePath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Pages\\DetailDepartment.razor",
       "TargetPath": "Pages\\DetailDepartment.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Pages\\EditEmployee.razor",
+      "TargetPath": "Pages\\EditEmployee.razor",
       "FileKind": "component"
     },
     {

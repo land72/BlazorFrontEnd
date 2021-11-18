@@ -640,3 +640,5 @@ D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\build-gz\hzgIt4Eh.
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Blazorfrontendsample.csproj.CopyComplete
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployeePage.razor.g.cs
 D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\DetailEmployeePage.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+D:\pemgrogramanFrontend\Blazorfrontendsample\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
