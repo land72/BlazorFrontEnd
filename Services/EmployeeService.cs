@@ -41,7 +41,7 @@ namespace Blazorfrontendsample.Services
       
         public async Task<Employee> Update(int id, Employee employee)
         {
-            var response = await _httpClient.PutAsJsonAsync($"/apiEmployees/{id}",employee);
+            var response = await _httpClient.PutAsJsonAsync($"/api/Employees/{id}",employee);
             if(response.IsSuccessStatusCode){
                 return await JsonSerializer.DeserializeAsync<Employee>(await response.Content.ReadAsStreamAsync());
             }
