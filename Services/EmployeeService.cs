@@ -18,6 +18,15 @@ namespace Blazorfrontendsample.Services
         {
             _httpClient = httpClient;
         }
+                public Task<Employee> Add(Employee employee)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public Task<Employee> Delete(int id)
+        {
+            throw new System.NotImplementedException();
+        }
         public async Task<IEnumerable<Employee>> GetAll()
         {
             var hasil = await _httpClient.GetFromJsonAsync<IEnumerable<Employee>>("/api/Employees");

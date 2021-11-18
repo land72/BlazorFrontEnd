@@ -1,3 +1,4 @@
+using System;
 using System.Dynamic;
 
 namespace Blazorfrontendsample.Models
@@ -12,9 +13,9 @@ namespace Blazorfrontendsample.Models
 
         public string email { get; set; }
 
-        public string dateofBirth { get; set; }
+        public DateTime dateofBirth { get; set; }
 
-        public int gender { get; set; }
+        public Gender gender { get; set; }
 
         public int departmentId { get; set; }
 

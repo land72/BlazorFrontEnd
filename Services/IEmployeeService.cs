@@ -9,5 +9,8 @@ namespace Blazorfrontendsample.Services
     {
         Task<IEnumerable<Employee>> GetAll();
         Task<Employee> GetById(int id);
+        Task<Employee> Update(int id, Employee employee);
+         Task<Employee> Delete(int id);
+          Task<Employee> Add(Employee employee);
     }
 }
