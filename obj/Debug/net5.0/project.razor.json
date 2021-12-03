@@ -385,39 +385,6 @@
         }
       },
       {
-        "HashCode": -48078368,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.AddEmployee",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AddEmployee"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.AddEmployee"
-        }
-      },
-      {
-        "HashCode": -2024312135,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.AddEmployee",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Pages.AddEmployee"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.AddEmployee",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1472347388,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.App",

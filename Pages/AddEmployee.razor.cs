@@ -1,18 +1,16 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Blazorfrontendsample.Models;
 using Blazorfrontendsample.Services;
 using Microsoft.AspNetCore.Components;
-using Blazorfrontendsample.Models;
-using Microsoft.AspNetCore.Components;
-using System.Threading.Tasks;
-using System.Linq;
-using System.Collections.Generic;
 
 namespace Blazorfrontendsample.Pages
 {
     public partial class AddEmployee
     {
-
-                public Employee Employee { get; set; } = new Employee();
+        public Employee Employee { get; set; } = new Employee();
 
         [Inject ]
 
@@ -25,18 +23,16 @@ namespace Blazorfrontendsample.Pages
         public NavigationManager NavigationManager { get; set; }
 
          public List<Department> Departments { get; set; } = new List<Department>();
-      
+
         protected async override Task OnInitializedAsync()
         {
-
-
             Departments = (await DepartmentsService.GetAll()).ToList();
         }
 
         protected async Task HandleValidSubmit(){
             Employee.PhotoPath = "images/nophoto.jpg";
            Employee result = await EmployeeService.Add(Employee);
-           NavigationManager.NavigateTo("addemployee");
+           NavigationManager.NavigateTo("employeepage");
         }
 
     }

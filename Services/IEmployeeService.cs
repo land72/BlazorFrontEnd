@@ -11,6 +11,6 @@ namespace Blazorfrontendsample.Services
         Task<Employee> GetById(int id);
         Task<Employee> Update(int id, Employee employee);
          Task<Employee> Delete(int id);
-          Task<Employee> Add(Employee employee);
+          Task<Employee> Add(Employee Employee);
     }
 }
