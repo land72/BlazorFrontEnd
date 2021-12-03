@@ -286,39 +286,6 @@
         }
       },
       {
-        "HashCode": 634288364,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.FetchData",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1184931434,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Pages.FetchData",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -735190901,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.Pages.Counter",
@@ -352,6 +319,105 @@
         }
       },
       {
+        "HashCode": 634288364,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.FetchData",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1184931434,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.FetchData",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -790152854,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.Index",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -977650685,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.Index",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -48078368,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.AddEmployee",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.AddEmployee"
+        }
+      },
+      {
+        "HashCode": -2024312135,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Pages.AddEmployee",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Pages.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Pages.AddEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1472347388,
         "Kind": "Components.Component",
         "Name": "Blazorfrontendsample.App",
@@ -381,6 +447,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazorfrontendsample.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1817461554,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -284366306,
+        "Kind": "Components.Component",
+        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
+        "AssemblyName": "Blazorfrontendsample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazorfrontendsample.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -510,59 +629,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazorfrontendsample.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1817461554,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -284366306,
-        "Kind": "Components.Component",
-        "Name": "Blazorfrontendsample.Shared.SurveyPrompt",
-        "AssemblyName": "Blazorfrontendsample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazorfrontendsample.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazorfrontendsample.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13256,6 +13322,11 @@
     {
       "FilePath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Pages\\DepartmentPage.razor",
       "TargetPath": "Pages\\DepartmentPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\pemgrogramanFrontend\\Blazorfrontendsample\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
       "FileKind": "component"
     },
     {

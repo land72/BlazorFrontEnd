@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Blazorfrontendsample.Shared
+namespace Blazorfrontendsample.Pages
 {
     #line hidden
     using System;
@@ -82,28 +82,14 @@ using Blazorfrontendsample.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/addemployee")]
+    public partial class AddEmployee : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 34 "D:\pemgrogramanFrontend\Blazorfrontendsample\Shared\NavMenu.razor"
-       
-    private bool collapseNavMenu = true;
-
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

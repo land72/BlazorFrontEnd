@@ -1,5 +1,6 @@
 using System;
 using System.Dynamic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Blazorfrontendsample.Models
 {
@@ -7,9 +8,14 @@ namespace Blazorfrontendsample.Models
     {
         public int employeeId { get; set; }
 
+        [Required(ErrorMessage = "Firts Name is required")]
+        [StringLength(100,MinimumLength = 2)]
+
         public string firstName { get; set; }
+        [Required]
 
         public string lastName { get; set; }
+        [Required]
 
         public string email { get; set; }
 
